@@ -16,3 +16,10 @@ padding: 16px;
     color:white
     text-decoration:none;
  }
+
+ img{
+     width: 150px;
+     heigth: 150px;
+     border-radius: 50%;
+     border: 5px solid green;
+ }
