@@ -1,6 +1,6 @@
 body {
     color:black;
-background-color: white;
+background-color: rgb(255, 255, 255);
  font-family: arial;
 }
 
@@ -23,3 +23,7 @@ padding: 16px;
      border-radius: 50%;
      border: 5px solid green;
  }
+
+ .center {
+        text-align: center;
+}
